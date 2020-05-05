@@ -26,5 +26,10 @@ ao colocar em prática alguns conceitos que se aprendeu até agora.
 - Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 
+
 ## :file_folder: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+<br>
+
+#### <div align="center">#fiqueemcasa :mask: </div>
