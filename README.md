@@ -28,4 +28,4 @@ ao colocar em prática alguns conceitos que se aprendeu até agora.
 
 
 ## :file_folder: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.LICENSE.md) para mais detalhes.
