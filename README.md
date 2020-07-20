@@ -1,4 +1,4 @@
-## <div align="center">:rocket: Desafio: Conceitos do Node.js </div>
+## <div align="center">:rocket: Desafio 02: Conceitos do Node.js </div>
 
 ##### <div align="center"> [Tecnologias](#Tecnologias)   |   [Desafio](#Desafio)   |   [Como contribuir](#Desafio)   |   [Licença](#Licença)    </div>
 
